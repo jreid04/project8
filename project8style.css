@@ -1,0 +1,36 @@
+th {
+background-color: yellow;
+border: solid;
+height: 30px;
+width: 20%;
+}
+
+td {
+border: 3px dotted blue;
+padding: 5px 0px 5px 0px;
+}
+
+table {
+border-collapse: collapse;
+text-align: center;
+margin: auto;
+width: 650px;
+}
+
+.red {
+color: red;
+}
+
+h1 {
+text-align: center;
+color: green;
+}
+
+body {
+font-family: Verdana;
+}
+
+.blue {
+color: blue;
+}
+
